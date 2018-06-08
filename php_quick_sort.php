@@ -53,5 +53,5 @@ $un_sorted = array(
     92,
     5
 );
-$sorted    = quick_sort($un_sorted);
+$sorted    = php_quick_sort($un_sorted);
 print_r($sorted);
