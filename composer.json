@@ -1,0 +1,29 @@
+{
+    "name": "nguyenanhung/php-quick-sort",
+    "description": "Light, simple PHP Array Quick Sort",
+    "keywords": [
+        "helper",
+        "array",
+        "quick-sort",
+        "php"
+    ],
+    "homepage": "https://github.com/nguyenanhung/php-quick-sort",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Nguyen An Hung",
+            "email": "dev@nguyenanhung.com",
+            "homepage": "https://nguyenanhung.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "files": [
+            "helpers/php_quick_sort.php"
+        ]
+    }
+}

@@ -1,4 +1,3 @@
-# php-quick-sort
-PHP Quick Sort
+# PHP Quick Sort
 
 Simple PHP Quick Sort
